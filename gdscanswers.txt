@@ -1,22 +1,24 @@
-eW91IGd1ZXNzZWQgaXQgcmlnaHQsIHRoaXMgaXMgQkFTRTY0ISE=
-appears to be encoded in Base64.
+3.eW91IGd1ZXNzZWQgaXQgcmlnaHQsIHRoaXMgaXMgQkFTRTY0ISE=
+Encoded with Base64.
 Ans) you guessed it right, this is BASE64!!
 
 
-The given text, %3Cscript%3Eyou%20found%20us%21%21%281%29%3C%2Fscript%3E
-is URL encoded.
+2.%3Cscript%3Eyou%20found%20us%21%21%281%29%3C%2Fscript%3E
+URL encoded.
 Ans) <script>you found us!!(1)</script>.
 
-3.
+3.LWxb ZWxfTTTua pfdw6HUU wbbis bnsf6
+not sure
 Ans) -l[el_M4îj—ÝÃ¡ÔSÛŠÆç±þ
 
 
-
-
+CTF Easy
 fl4g{you_found_me!}
 
 
 
 
+CTF Medium
+I have used Rot 47 Encryption 
 
 One Piece: The Quest for the Hidden FlagIn the vast sea of the Grand Line, the Straw Hat Pirates set sail once again, fueled by the spirit of adventure and the dreams of becoming the Pirate King. Captain Monkey D. Luffy gathered his crew on the Thousand Sunny, their ship, as they charted a course toward a mysterious island known as "Illusionary Isle."According to an ancient legend, this island was home to a long-lost treasure hidden by the legendary Pirate King, Gol D. Roger. However, the treasure wasn’t gold or jewels; instead, it was said to hold the true essence of freedom, and only those pure of heart could uncover it.As they approached the island, the crew noticed an eerie mist surrounding it. Nami, the navigator, studied her maps but couldn’t find any trace of the island. “It’s as if it doesn’t exist!” she exclaimed. Zoro, ever the swordsman, unsheathed his blade, ready to face whatever challenges lay ahead.Once they docked, Luffy led his crew into the depths of the island, where they encountered strange creatures and illusions that tested their resolve. Each step brought them closer to the heart of the island, where they discovered an ancient stone tablet covered in cryptic symbols.“Usopp, can you figure this out?” Luffy asked, pointing at the tablet. Usopp examined the symbols, and with a flash of inspiration, he realized they formed a riddle. “It says… ‘In chaos, the truth lies. Seek the one who never dies.’”After much pondering, the crew concluded that the “one who never dies” was the spirit of adventure itself. Inspired, they rallied together, their laughter echoing through the trees. As they embraced the spirit of freedom, the tablet began to glow, revealing a hidden flag:CTF{OnePieceIsReal}The crew cheered in triumph, knowing they had uncovered a piece of Pirate King history. With the flag in hand, they left the island, their hearts filled with new resolve to continue their journey and seek the ultimate treasure.As they sailed away, Luffy raised the flag high, declaring, “With this, we’ll prove to the world that One Piece is real!”
